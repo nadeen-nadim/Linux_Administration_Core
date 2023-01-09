@@ -1,3 +1,4 @@
+from datetime import datetime
 from tkinter import *
 
 
@@ -64,10 +65,27 @@ def checkout(small_count,large_count,medium_count):
         checkout_string+="Medium Cup          "+str(mediumCup.counter)+ "x 10LE\n"
     if largeCup.counter > 0:
         checkout_string+="Large Cup          "+str(largeCup.counter)+ "x 15LE\n"
+    
      
     checkout_string+= "Total                "+str(total)+"\n"    
     checkout_label = Label(checkout_window, text = checkout_string,font=('Ariel',25))
     checkout_label.place(bordermode = OUTSIDE,relx =0.5,rely = 0.5,anchor = CENTER)
+    
+    bill_template = open("Bill_template.txt",'r')
+    content  = bill_template.readlines() #returns a list of string
+    date_time = datetime.now()
+    date_time = date_time.strftime("Date:             %d/%m/%Y\nTime:             %H:%M:%S\n")
+    content[9] = ""+date_time
+    total =0
+    content[5] += checkout_string
+    bill_file =  open("cust_1.txt",'w')
+    for line in content:
+        print(line,end='')
+        bill_file.write(line)
+    print()
+    bill_file.close()
+    bill_template.close()
+
 
 
 def smallCup(small_label):

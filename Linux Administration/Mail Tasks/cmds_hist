@@ -1,0 +1,984 @@
+    1  ls
+    2  sudo apt-get install virtualbox-guest-additions-iso
+    3  sudo apt-get install virtualbox-guest-dkms
+    4  ls
+    5  ./autorun.sh
+    6  sudo apt update
+    7  sudo apt intall -y build-essentioal linux-headers-5(uname-r)
+    8  sudo apt intall -y build-essential linux-headers-5(uname-r)
+    9  sudo apt intall -y build-essential linux-headers-$(uname-r)
+   10  sudo apt install -y build-essential linux-headers-$(uname-r)
+   11  66
+   12  cd ~
+   13  nautilus
+   14  cd bin
+   15  ls
+   16  ls | grep ls
+   17  grep man
+   18  clear
+   19  cat ls
+   20  ls
+   21  cls
+   22  clear
+   23  cd ../
+   24  ls
+   25  cd ~
+   26  ls
+   27  mkdir nadeen
+   28  cd nadeen
+   29  cd ~
+   30  cd nadeen
+   31  ~
+   32  cd ~
+   33  cd nadeen
+   34  mkdir fold1
+   35  cd fold1
+   36  mkdir fold2
+   37  cd fold2
+   38  cd ~
+   39  /bin
+   40  cd ../
+   41  cd bin
+   42  cd ..
+   43  cd bin
+   44  cd bin/ls
+   45  gedit ls
+   46  sudo gedit ls
+   47  cd ~
+   48  touch text
+   49  gedit text
+   50  cat text
+   51  cd \etc
+   52  cd ...\etc
+   53  cd ..
+   54  cd etc
+   55  ls
+   56  ifconfig
+   57  cd ~
+   58  ifconfig
+   59  ifconf
+   60  ifconfig
+   61  sudo apt install net-tools
+   62  ifconfig
+   63  clear
+   64  cd /usr
+   65  cd include
+   66  ls | grep stdio
+   67  gedit stdio,h
+   68  gedit stdio.h
+   69  sudo apt install build-essential
+   70  python
+   71  pyhton3
+   72  clear
+   73  cd `\
+   74  cd ~
+   75  cd Desktop
+   76  mkdir my_codes
+   77  touch proj1.py
+   78  gedit proj1.py
+   79  cd my_codes
+   80  touch proj.py
+   81  gedit proj.py
+   82  py proj.py
+   83  sudo apt install pythonpy
+   84  py proj.py
+   85  python proj.py
+   86  python proj
+   87  py proj
+   88  python
+   89  python3 proj.py
+   90  touch ay7aga
+   91  touch batatis
+   92  python3 proj.py
+   93  clear
+   94  python3 proj.py
+   95  touch c_code.c
+   96  gedit c_code.c
+   97  gcc c_code.c
+   98  ./a
+   99  gcc c_code.c -o out
+  100  ./out
+  101  touch mycpp.cpp
+  102  gedit mycpp.cpp
+  103  g++ mycpp.cpp -o cppout
+  104  ./cppout
+  105  sudo
+  106  sudo -h mkdir
+  107  sudo -h mkdir nad
+  108  sudo -h  mkdir nade;
+  109  grep | ls include
+  110  pwd
+  111  sudo mkdir mod
+  112  cd mod
+  113  touch peep
+  114  sudo touch peep
+  115  rmdir mod
+  116  cd..
+  117  cd
+  118  rmdir mod
+  119  rm dir
+  120  rm mod
+  121  sudo rm
+  122  sudo rm mod
+  123  rm-rf mod
+  124  pwd -L
+  125  pwd -P
+  126  cd~
+  127  cd ~
+  128  cd mycodes
+  129  my_codes
+  130  cd my_codes
+  131  cd Desktop
+  132  cd my_codes
+  133  cd~
+  134  cd ~
+  135  sudo apt update
+  136  java --version
+  137  sudo apt install openjdk-19-jre-headless  # version 19.0.1+10-1ubuntu1~22.04
+  138  java --version
+  139  sudo apt install openjdk-18-jre-headless
+  140  sudo apt-get update
+  141  sudo apt update
+  142  apt list --upgradeable
+  143  clear
+  144  sudo dpkg --configure -a
+  145  dpkg --force-depends --configure ca-certificates-java
+  146  sudo dpkg --force-depends --configure ca-certificates-java
+  147  sudo apt-get purge ca-certificates-java
+  148  sudo apt-get install -f 
+  149  java --version
+  150  sudo apt install openjdk-19-jre-headless
+  151  sudo apt-get install eclipse eclipse-cdt g++
+  152  touch java_cmds.txt
+  153  cat java_cmds.txt
+  154  grep java_cmds.txt
+  155  gedit java_cmds.txt
+  156  sudo apt-get purge ca-certificates-java
+  157  sudo apt-get install -f 
+  158  java --version
+  159  sudo apt install default-jre 
+  160  java --version
+  161  mkdir cmds
+  162  cd cmds
+  163  cat > cat_trial.txt
+  164  cat cat_trial.txt
+  165  touck one.txt
+  166  touch one.txt
+  167  cat > one,txt
+  168  cat > one.txt
+  169  cat > two.txt
+  170  cat one.txt two.txt > three.txt
+  171  cat three.txt
+  172  cp three.txt /home/nadeen/Desktop
+  173  cd ~
+  174  cat three.txt
+  175  cd `
+  176  cd ~
+  177  cd cmds
+  178  mv cat_trial.txt /home/nadeen/Desktop
+  179  cd /home/nadeen/Desktop
+  180  ls
+  181  mv proj1.py proj555.py
+  182  ls
+  183  mkdir poop
+  184  ls
+  185  rmdir poop
+  186  ls
+  187  touch ayy_7aga.tzt
+  188  rm ayy_7aga.tzt
+  189  ls
+  190  locate *.c
+  191  sudo apt install plocate
+  192  locate *.c
+  193  locate *.cpp
+  194  find /home mycode.cpp
+  195  find /home mycpp.cpp
+  196  find /home -i mycpp.cpp
+  197  find /home -name mycpp.cpp
+  198  df 
+  199  df mycodes
+  200  ls
+  201  df my_codes
+  202  df -h
+  203  du /home/Desktop/my_codes
+  204  du /home/nadeen/Desktop/my_codes
+  205  du -s /home/nadeen/Desktop/my_codes
+  206  du -m /home/nadeen/Desktop/my_codes
+  207  du -k /home/nadeen/Desktop/my_codes
+  208  head proj555.py
+  209  cd my_codes
+  210  head mycpp.cpp
+  211  jobs
+  212  jobs -l
+  213  jobs -p
+  214  ping google.com
+  215  clear
+  216  uname
+  217  uname -a
+  218  uname -s
+  219  uname -n
+  220  top
+  221  history
+  222  clear
+  223  touch guest_addons_cmds.txt
+  224  clear
+  225  echo hello
+  226  hostname
+  227  htop
+  228  sudo apt install htop
+  229  clear
+  230  history
+  231  man ls
+  232  man cd
+  233  cd --help
+  234  man 1 intro
+  235  man 2 intro
+  236  man 9 intro
+  237  LS
+  238  man LS
+  239  man if ls
+  240  man -f ls
+  241  man -f pwd
+  242  history
+  243  sudo history >> NadTXT
+  244  history >> NadTXT
+  245  gedit NadTXT
+  246  cat NadTXT
+  247  clear
+  248  man -k pass
+  249  man -k pass | grep sw
+  250  clear
+  251  lsusbs
+  252  echo hello
+  253  clear
+  254  man -w ls
+  255  /usr/share/man/man1/ls.1.gz
+  256  cd /usr/share/man/man1/ls.1.gz
+  257  cd /usr/share/man
+  258  cd man1
+  259  cd ~
+  260  cat passwd.1.gz
+  261  ls
+  262  cd /usr/share/man
+  263  cd man1
+  264  cat passwd.1.gz
+  265  cd ~
+  266  clear
+  267  man 3 printf
+  268  man 2 scanf
+  269  man 3 scanf
+  270  history
+  271  clear
+  272  man man
+  273  help
+  274  clear
+  275  top
+  276  cd /dev/hda
+  277  nadeen@nadeen-VirtualBox:~$ 
+  278  clear
+  279  whoami
+  280  hostname
+  281  date
+  282  while true; do echo ""
+  283  date
+  284  uptime
+  285  clear
+  286  lsusb
+  287  clear
+  288  lspci
+  289  lscpu
+  290  n]man -f -k gpu
+  291  man -f -k gpu
+  292  man -k gpu
+  293  amdgpu
+  294  man amdgpu
+  295  amdgpu
+  296  man amdgpu
+  297  cat /proc/cpuinfo |grep Mhz
+  298  cat /proc/cpuinfo | grep Mhz
+  299  ls mod
+  300  lsmod
+  301  env
+  302  clear
+  303  printenv
+  304  printenv | grep PATH
+  305  mkdir 2
+  306  cd 2
+  307  gedit NN
+  308  vim NN
+  309  sudo apt install vim 
+  310  vim NN
+  311  cat NN
+  312  vim NN
+  313  cat NN
+  314  vim NN
+  315  clear
+  316  uname
+  317  uname -n
+  318  uname -r
+  319  uname -a
+  320  uname -k
+  321  lss -l
+  322  ls -l
+  323  cd `
+  324  cd ~
+  325  ls -l
+  326  ls
+  327  nano NadTXT
+  328  nano pl.txt
+  329  ssh
+  330  clear
+  331  ls
+  332  cat p1.txt
+  333  cat pl.txt
+  334  cat text >> pl.txt
+  335  cat text > pq.txt
+  336  cat pq.txt
+  337  cat -n pq.txt
+  338  cat -n pl.txt
+  339  nano pl.txt
+  340  cat -s pl.txt
+  341  nano pl.txt
+  342  man cat
+  343  clear
+  344  grep Hello pl.txt
+  345  cat pl.txt
+  346  grep hello pl.txt
+  347  grep -v hello pl.txt
+  348  grep -c hello pl.txt
+  349  grep -n hello pl.txt
+  350  grep -b hello pl.txt
+  351  grep -s hello pl.txt
+  352  grep -c o pl.txt
+  353  cd /etc
+  354  cat /passwd
+  355  cat passwd
+  356  cut -d: -f1 passwd
+  357  cut -d: -f1 passwd | grep o
+  358  clear
+  359  cd ~
+  360  mkdir LAB3
+  361  cd LAB3
+  362  mkdir f1 f2
+  363  ls
+  364  touch file1.txt
+  365  tree
+  366  sudo apt  install tree  # version 2.0.2-1
+  367  cp file1.txt F1
+  368  cd F1
+  369  cp file1.txt f2
+  370  ls
+  371  cp -r f2 f1
+  372  sudo apt  install tree  # version 2.0.2-1
+  373  mv -r fl f2
+  374  mv fl f2
+  375  mv f1 f2
+  376  ls
+  377  cd
+  378  cd /
+  379  sudo apt  install tree  # version 2.0.2-1
+  380  tree
+  381  tree -L 1
+  382  cd ~
+  383  cd f1
+  384  cd f2
+  385  cd LAB3
+  386  tree
+  387  claer
+  388  clear
+  389  mkdir n/a/d/e/e/n
+  390  mkdir -p  n/a/d/e/e/n
+  391  tree
+  392  mkdir -p  f30/{f1 f2 f3 f4}
+  393  tree
+  394  mkdir -p  f30/{f1, f2, f3, f4}
+  395  tree
+  396  cd 
+  397  rmdir LAB3
+  398  cd LAB3
+  399  rm -rv f30
+  400  rm -rv n
+  401  tree
+  402  rm -rv f2,
+  403  rm -rv f3,
+  404  rm -rv f4,
+  405  rm -rv f4
+  406  vim t1.txt
+  407  head f1.txt
+  408  head f1
+  409  head file1.txt
+  410  vim file1.txt
+  411  head f1
+  412  head file1.txt
+  413  vim file1.txt
+  414  heal file1.txt
+  415  head file1.txt
+  416  tail file1.txt
+  417  more file1.txt
+  418  less file1.txt
+  419  head -n 4 file.txt
+  420  head -n 4 file1.txt
+  421  less -n 4 file1.txt
+  422  tail -n 4 file1.txt
+  423  more file1.txt
+  424  more -n file1.txt
+  425  more -n 6 file1.txt
+  426  less -n 6 file1.txt
+  427  more -n 5 file1.txt
+  428  less -n 5 file1.txt
+  429  more -n 5 file1.txt
+  430  tail 4 file1.txt
+  431  tail -4 file1.txt
+  432  tail -9 file1.txt
+  433  head -9 file1.txt
+  434  more file1.txt
+  435  more -n 3 file1.txt
+  436  less -n 3 file1.txt
+  437  \
+  438  less -n file1.txt
+  439  less -3 file1.txt
+  440  man head
+  441  ls -li
+  442  tree
+  443  rm -rv f2
+  444  rm *
+  445  rm -rv f3
+  446  ls
+  447  touch file1.txt
+  448  touch file2.txt
+  449  vim file1.txt
+  450  rm file1.txt file2.txt
+  451  ls touch file_hardlink.txt file_src.txt
+  452  touch file_hardlink.txt file_src.txt
+  453  ls
+  454  gedit file_hardlink.txt&
+  455  ln file_src.txt file_hardlink.txt
+  456  ln file_src.txt file_hardlink.txt
+  457  ls
+  458  ls -li
+  459  gedit file_src.txt
+  460  cat file_hardlink.txt
+  461  gedit file_src.txt&
+  462  rm file_src.txt
+  463  ls
+  464  rm file_hardlink.txt
+  465  touch src.txt
+  466  ls 
+  467  cal src.txt
+  468  cat src.txt
+  469  ln -s src.txt softdest.txt
+  470  ls -li
+  471  gedit src.txt&
+  472  gedit softdest.txt&
+  473  rm src.txt
+  474  cat softdest.txt
+  475  ls
+  476  ls -li
+  477  touch src.txt
+  478  ls -li
+  479  cat softdest.txt
+  480  man ln
+  481  unlink
+  482  unlink src.txt softdest.txt
+  483  unlink src.txt
+  484  ls
+  485  ls -l file
+  486  ls -l
+  487  rm softdest.txt
+  488  touch f1
+  489  chmod u+x f1
+  490  ls -l
+  491  chmod 000
+  492  chmod u-rwx o-rwx g-rwx
+  493  chmod u-rwx, o-rwx, g-rwx f1
+  494  chmod 000
+  495  chmod 000 f1
+  496  chmod 777 f1
+  497  chmod u-rwx o-rwx g-rwx f1
+  498  chmod u-rwx, o-rwx, g-rwx f1
+  499  chmod u-rwx f1
+  500  chmod g-rwx f1
+  501  chmod o-rwx f1
+  502  ls -l
+  503  man chmod
+  504  chmod ugo=rxw f1
+  505  ls -l
+  506  chmod ugo=--- f1
+  507  ls -l
+  508  clear
+  509  chmod ugo=rwx f1
+  510  sudo adduser gafar
+  511  sudo adduser gafar2
+  512  su gafar hossam
+  513  su gafarhossam
+  514  su gafar hossam
+  515  su jafar
+  516  su gafar
+  517  sudo deluser gafar
+  518  sudo usermode -aG sudo gafar
+  519  sudo usermod -aG sudo gafar
+  520  su gafar
+  521  groups
+  522  su gafar
+  523  sudo deluser gafar
+  524  su gafar2
+  525  ls
+  526  cd /home
+  527  ls
+  528  sudo rm -rf gafar 
+  529  ls
+  530  cd ~
+  531  ls
+  532  clear
+  533  rm -r /
+  534  rm -r / 2>errorfile
+  535  cat errorfile
+  536  gedit errorfile
+  537  rm -r / 1>errorfile
+  538  gedit errorfile
+  539  cd /dev/null
+  540  cat /dev/null
+  541  gedit /dev/null
+  542  sudo gedit /dev/null
+  543  cat /dev/null
+  544  clear
+  545  grep -r power/sys/
+  546  grep -r power/sys/ 1>
+  547  grep -r power/sys/ 1> /dev/null
+  548  grep -r power /sys/ 1> /dev/null
+  549  grep -r power /sys/ 1> power_file
+  550  cat power_file
+  551  clear
+  552  cat power_file
+  553  grep -r power /sys/ 1> power_file
+  554  grep -r power /sys/ &> /dev/null
+  555  grep file
+  556  mkdir another
+  557  cd another
+  558  touch t1x t2x t3x t4x t5x t6x
+  559  ls
+  560  ls -l
+  561  ls -l *x
+  562  touch f1y f2y f3y
+  563  ls -l *y
+  564  ls -l
+  565  ls -l *x
+  566  touch 1x1
+  567  rm -r *x
+  568  ls
+  569  rm *x*
+  570  ls
+  571  touch F1 A B G g E H D P O L M N X
+  572  rm [A-Z]
+  573  ls
+  574  rm [a-z]
+  575  ls
+  576  cd /
+  577  ;s
+  578  ls
+  579  cd etc
+  580  passwds
+  581  sudo passwd
+  582  cd \
+  583  cd /
+  584  cd etc/shadow
+  585  ls
+  586  cd etc
+  587  ls
+  588  grep shadow | ;s
+  589  grep shadow | ls
+  590  sudo ln -s shadow shadow_link
+  591  gedit shadow_link
+  592  sudo gedit shadow_link
+  593  sudo cat shadow_link >> ../Home/Desktop/pp 
+  594  sudo cat shadow_link >> ../home/nadeen/Desktop/pp 
+  595  cd ~
+  596  mkdir send_email
+  597  cd send_email
+  598  touch semail.py
+  599  gedit semail.py
+  600  gedit semail.py&
+  601  touch my_contacts.txt
+  602  vim my_contacts.txt
+  603  py semail.py
+  604  python3 semail.py
+  605  ls
+  606  python3 semail.py
+  607  history
+  608  python3 semail.py
+  609  history
+  610  python3 semail.py
+  611  history >> my_history.txt
+  612  gedit my_histort.txt&
+  613  gedit my_history.txt&
+  614  python3 semail.py
+  615  clear
+  616  cd ~
+  617  mkdir hotspot
+  618  cd hotspot
+  619  touch connect_to_hotspot.py
+  620  gedit connect_to_hotspot.py&
+  621  pip install wifi
+  622  clear
+  623  pip install wifi
+  624  cd /etc
+  625  history
+  626  ln -s shadow ../Desktop/shadow
+  627  clear
+  628  python3 semail.py
+  629  cd send_email
+  630  python3 semail.py
+  631  cd send_email
+  632  python3 semail.py
+  633  ls /bin/ | grep ash
+  634  clear
+  635  Var1 = Status
+  636  Var1=Status
+  637  echo $Var1
+  638  echo Var1
+  639  $pwd
+  640  $PWD
+  641  $Hone
+  642  $Home
+  643  echo $Home
+  644  echo $HOME
+  645  env
+  646  PPPPLLLLLOOOOO
+  647  gedit .bashrc
+  648  cd ~
+  649  gedit .bashrc
+  650  cd Desktop
+  651  mkdir shellScripting
+  652  cd shellScripting
+  653  touch lab1
+  654  gedit lab1&
+  655  nano lab1&
+  656  .\Lab1
+  657  ./Lab1
+  658  .\lab1
+  659  ./lab1
+  660  clear
+  661  ./lab1
+  662  cd ~
+  663  cd send_email
+  664  py semal.py
+  665  py semail.py
+  666  ls
+  667  python3 semail.py
+  668  connection reseted by peers
+  669  gedit semail.py&
+  670  python3 semail.py
+  671  echo *
+  672  cd 
+  673  cd Desktop\shellScripting
+  674  ;s
+  675  ls
+  676  cd Desktop
+  677  ls
+  678  cd shellScripting
+  679  ./lab1
+  680  ls
+  681  ./lab1
+  682  export MY_MSG=3000
+  683  ./lab1
+  684  exit
+  685  cd Desktop/shellScripting
+  686  nano lab1&
+  687  gedit lab1&
+  688  ./lab1
+  689  chmod 777 lab1
+  690  ./lab1
+  691  cleal
+  692  clear
+  693  cleal
+  694  ./lab1
+  695  /bin/bash
+  696  ./lab1
+  697  echo $MY_MSG
+  698  export MY
+  699  export MY_MSG
+  700  ,/lab1
+  701  .\lab1
+  702  ./lab1
+  703  touch lab2
+  704  gedit lab2
+  705  gedit lab2&
+  706  history
+  707  ./lab1
+  708  ./lab2
+  709  chmod 777 lab2
+  710  ./lab2
+  711  ls
+  712  gedit ADC_cfg
+  713  ./lab2
+  714  ap-get install mailutills
+  715  sudo apt-get install mailutills
+  716  sudo apt-get install mailutils
+  717  nano /etc/ssmtp/ssmtp.conf
+  718  sudo apt-get install ssmtp
+  719  nano /etc/ssmtp/ssmtp.conf
+  720  sudo nano /etc/ssmtp/ssmtp.conf
+  721  mail -s "Test" nadeenmnadim@hotmail.com
+  722  sudo nano /etc/ssmtp/ssmtp.conf
+  723  mail -s "Test" nadeenmnadim@hotmail.com
+  724  touch lab3
+  725  gedit lab3
+  726  gedit lab3&
+  727  chmod 777 lab3
+  728  .\lab3
+  729  ./lab3
+  730  echo `expr 1+1`
+  731  ./lab3
+  732  stty echo-
+  733  stty echo
+  734  stty echo-
+  735  stty -echo
+  736  oellooooeesttu echo
+  737  stty echo
+  738  clear
+  739  touch lab4
+  740  gedit lab4&
+  741  chmod 777 lab4
+  742  ./lab4
+  743  cd Desktop
+  744  cd shellScripting
+  745  .\lab4 10 20 30
+  746  /lab4 10 20 30
+  747  ./lab4 10 20 30
+  748  gedit lab4&
+  749  ./lab4 10 20 30
+  750  echo *
+  751  mail -s "Test" nadeenmnadim@hotmail.com
+  752  touch lab5
+  753  chmod 777 lab5
+  754  gedit lab5
+  755  gedit lab5&
+  756  ./lab5&
+  757  ls
+  758  ./lab5&
+  759  mv Sabrina Carpenter - Already Over (Official Audio).mp3 SC.mp3
+  760  ./lab5&
+  761  ./lab5
+  762  sudo apt-get install mpg123
+  763  ./lab5
+  764  git clone https://github.com/cu-ecen-aeld/assignment-1-nadeen-nadim.git
+  765  sudo apt install git
+  766  git clone https://github.com/cu-ecen-aeld/assignment-1-nadeen-nadim.git
+  767  ls
+  768  cd  assignment-1-nadeen-nadim 
+  769  git remote add assignments-base https://github.com/cu-ecen-aeld/aesd-assignments.git
+  770  git fetch assignments-base
+  771  git merge assignments-base/master
+  772  git submodule update --init --recursive
+  773  cd 
+  774  sudo apt-get update
+  775  sudo apt-get install     ca-certificates     curl     gnupg     lsb-release
+  776  sudo mkdir -p /etc/apt/keyrings
+  777  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
+  778  echo   "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu \
+  779    $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+  780  sudo apt-get update
+  781  sudo chmod a+r /etc/apt/keyrings/docker.gpg
+  782  sudo apt-get install docker-ce docker-ce-cli containerd.io docker-compose-plugin
+  783  sudo docker run hello-world
+  784  sudo usermod -aG docker nadeen
+  785  man egrep
+  786  cd Desktop
+  787  ls
+  788  docker run hello-world
+  789  newgrp docker
+  790  docker run hello-world
+  791  cd  assignment-1-nadeen-nadim 
+  792  cd Desktop
+  793  cd  assignment-1-nadeen-nadim 
+  794  ./unit-test.sh 
+  795  ls
+  796  cd assignment-autotest
+  797  ./unit-test.sh
+  798  ls
+  799  ./test-unit.sh
+  800  cd test
+  801  cd assignment1
+  802  ls
+  803  ./unit-test.sh 
+  804  ls
+  805  cd ../
+  806  ls
+  807  ./unit-test.sh
+  808  sudo apt-get install build-essential cmake
+  809  /unit-test.sh
+  810  ./unit-test.sh 
+  811  udo apt-get install -y build-essential ruby cmake
+  812  sudo apt-get install -y build-essential ruby cmake
+  813  ./unit-test.sh 
+  814  ls
+  815  cd conf
+  816  gedit username.txt
+  817  cd ../
+  818  ls
+  819  cd student-test
+  820  ls
+  821  cd assignment1
+  822  ls
+  823  gedit Test_validate_username.c
+  824  cd ../
+  825  ls
+  826  cd ../
+  827  ls
+  828  cd examples
+  829  ls
+  830  cd autotest-validate
+  831  gedit autotest-validate
+  832  ls
+  833  gedit autotest-validate.c
+  834  ls
+  835  cd ../\
+  836  cd ../
+  837  cd examples
+  838  ls
+  839  cd ..
+  840  ls
+  841  cd student-test
+  842  ls
+  843  cd assignment1
+  844  ls
+  845  gedit Test_validate_username.c
+  846  cd ..
+  847  ./unit-test.sh
+  848  cd student-test
+  849  cd assignment1
+  850  gedit Test_validate_username.c&
+  851  cd ../../
+  852  ./unit-test.sh
+  853  cd student-test
+  854  ls
+  855  cd Desktop
+  856  cd assignment-1-nadeen-nadim
+  857  cd student-test
+  858  cd assignment1
+  859  cd ..
+  860  ./unit-test.sh
+  861  ls
+  862  cd finder-app
+  863  ls
+  864  gedit finder.sh
+  865  cd ..
+  866  ls
+  867  cd assignment-autotest
+  868  ls
+  869  cd ..
+  870  ls
+  871  cd finder-app
+  872  gedit finder.sh&
+  873  ls
+  874  cd ..
+  875  ls
+  876  cd student-test
+  877  ls
+  878  cd assignemt1
+  879  cd assigment1
+  880  cd assignment1
+  881  ls
+  882  gedit Test_validate_username.c
+  883  ls
+  884  cd ..
+  885  ls
+  886  cd ..
+  887  ls
+  888  cd examples
+  889  ls
+  890  cd autotest-validate
+  891  ls
+  892  gedit autotest-validate.c
+  893  cd ../../
+  894  ./unit-test.sh
+  895  ls
+  896  cd finder-app
+  897  ls
+  898  gedit finder.sh
+  899  ar finder.sh
+  900  cat finder.sh
+  901  finder.sh /Desktop/my_codes p
+  902  ./finder.sh /Desktop/my_codes p
+  903  chmod 777 finder.sh
+  904  ./finder.sh /Desktop/my_codes p
+  905  ./finder.sh Desktop/my_codes p
+  906  ./finder.sh /Home/Desktop/my_codes p
+  907  ./finder.sh /Desktop/my_codes p
+  908  gedit finder.sh
+  909  ./finder.sh /Desktop/my_codes p
+  910  ./finder.sh Desktop/my_codes p
+  911  gedit finder.sh
+  912  ./finder.sh Desktop/my_codes p
+  913  ./finder.sh Home/Desktop/my_codes p
+  914  ls
+  915  gedit finder.sh
+  916  cd Desktop
+  917  ls
+  918  cd  assignment-1-nadeen-nadim 
+  919  ls
+  920  cd inder-app
+  921  gedit finder.sh
+  922  ./finder.sh Desktop/my_codes p
+  923  gedit finder.sh
+  924  ./finder.sh Desktop/my_codes p
+  925  gedit finder.sh&
+  926  find / -name Desktop/my_codes
+  927  find /Home -name Desktop/my_codes
+  928  find /home -name Desktop/my_codes
+  929  find /home/nadeen -name Desktop/my_codes
+  930  find /home/nadeen wholename Desktop/my_codes
+  931  find /home/nadeen pp
+  932  ./finder.sh Desktop/my_codes p
+  933  mkdir ay
+  934  ls
+  935  gedit finder.sh&
+  936  ./finder.sh ay p
+  937  ls
+  938  cd ay
+  939  touch f1 f2 ff3 f3323
+  940  ./finder.sh ay p
+  941  cd ..
+  942  ./finder.sh ay p
+  943  ./finder.sh /home/nadeen/Desktop/my_codes p
+  944  gedit finder.sh&
+  945  ./finder.sh /home/nadeen/Desktop/my_codes p
+  946  man grep
+  947  ./finder.sh /home/nadeen/Desktop/my_codes p
+  948  ./finder.sh /home/nadeen/Desktop/my_codes #include
+  949  ./finder.sh /home/nadeen/Desktop/my_codes #incl
+  950  ./finder.sh /home/nadeen/Desktop/my_codes include
+  951  gedit writer.sh
+  952  finder-test.sh
+  953  ./finder-test.sh
+  954  sudo ./finder-tes.sh
+  955  sudo ./finder-test.sh
+  956  chmod 777 writer.sh
+  957  ./finder-test.sh
+  958  ./writer.sh test.txt people
+  959  ls
+  960  cat test.txt
+  961  gedit writer.sh
+  962  ./finder-test.sh
+  963  ls
+  964  gedit writer.sh
+  965  ./finder-test.sh
+  966  gedit writer.sh
+  967  ./finder-test.sh
+  968  gedit writer.sh&
+  969  ./finder.sh /home/nadeen/Desktop/ayyyy/include.txt
+  970  ./writer.sh /home/nadeen/Desktop/ayyyy/include.txt poop
+  971  ./writer.sh ayyyy/include.txt poop
+  972  ./writer.sh ayyyy poop
+  973  ls
+  974  clear
+  975  ./writer.sh ayyyy/include.txt poop
+  976  ./writer.sh /home/nadeen/Desktop/ayyyy/include.txt poop
+  977  man dirname
+  978  touch nad/tx
+  979  man touch
+  980  echo "helllo >> /h/hel.txt
+  981  echo "helllo >> h/hel.txt
+  982  echo "helllo >> hel.txt
+  983  echo "helllo" >> h/hel.txt
+  984  history >> cmds_hist
